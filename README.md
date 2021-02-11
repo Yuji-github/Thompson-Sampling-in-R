@@ -1,1 +1,1 @@
-# Thomson-Sampling-in-R
+# Thompson-Sampling-in-R
